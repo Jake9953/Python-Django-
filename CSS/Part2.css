@@ -1,0 +1,19 @@
+body{
+  background-color: aqua;
+}
+
+div{
+  background-color: yellowgreen;
+  border-color: blueviolet;
+  border-width: 3px;
+  border-style: dotted;
+}
+
+p{
+  color: rgb(4, 0, 255);
+}
+
+span{
+  background: rgb(21, 255, 0);
+  color: rgb(210, 4, 233);
+}
