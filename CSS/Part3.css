@@ -1,0 +1,11 @@
+.firstDiv {
+  color: aqua;
+}
+.secondDiv {
+  color: aquamarine;
+}
+
+#Singled{
+  color:rgb(8, 122, 223);
+  text-decoration: line-through;
+}
