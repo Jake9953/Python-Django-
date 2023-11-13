@@ -1,0 +1,39 @@
+body {
+  background: teal;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Fira Code', monospace;
+}
+
+.art {
+  margin: auto;
+}
+td {
+  background-color: blueviolet;
+  height: 300px;
+  width: 150px;
+  border: 1px solid white;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.one {
+  background-color: #ffbe86;
+}
+.two {
+  background-color: #ffe156;
+}
+.three {
+  background-color: #ffe9ce;
+}
+.four {
+  background-color: #ffb5c2;
+}
+.five {
+  background-color: #3777ff;
+}
