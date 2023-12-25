@@ -1,9 +1,17 @@
-td{
+body{
+  border: 5px solid yellowgreen;
+  background: scroll;
+}
+.td{
   height: 120px;
   width: 120px;
   text-align: center;
   border: 5px solid blue;
   font-size: 100px;
+}
+table{
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .jumbotron{
