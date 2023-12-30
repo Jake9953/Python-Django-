@@ -1,3 +1,6 @@
 {
-  "cSpell.words": ["jacobwambua", "wambua"]
+  "cSpell.words": ["jacobwambua", "wambua"],
+  "python.testing.unittestArgs": ["-v", "-s", "./Python", "-p", "*test.py"],
+  "python.testing.pytestEnabled": false,
+  "python.testing.unittestEnabled": true
 }
