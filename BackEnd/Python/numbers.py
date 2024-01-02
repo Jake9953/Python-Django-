@@ -27,6 +27,16 @@ print(mystring[0]) # To index a string we use the square brackets
 print(mystring[-1]) # To index a string we use the square brackets
 
 # slicing strings
-mystring = "wambua"
+mystring = "wambua" 
 
 print(mystring[2:]) #This will slice the string wambua, starting at index 2 until the last letter
+
+# lists
+mylist = [1,2,3] 
+
+# functions
+def addNUM(num1,num2):
+  return num1+num2
+
+results = addNUM(2,3)
+print(results)
